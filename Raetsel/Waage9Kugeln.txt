@@ -1,0 +1,3 @@
+Waage mit 9 Kugeln
+
+Es gibt 9 Kugeln, die gleich aussehen. Eine der 9 Kugeln ist ein bisschen schwerer. Man darf zeimal mit einer Waage (2 Waagschalen) wiegen. Wie findet man heraus, welche Kugel die schwerere ist?

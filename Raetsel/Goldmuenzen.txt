@@ -1,0 +1,7 @@
+Goldmünzen
+
+In einer Firma werden Goldmünzen produziert. Ein Mitarbeiter von 100 beklaut seinen Arbeitgeber, in dem er die Goldmünzen immer ein Gramm leichter macht.
+
+Man hat eine grammgenaue Waage zur Verfügung - wie kann man mit einer Wiegung herausfinden, welcher der 100 Mitarbeiter das schwarze Schaaf ist?
+
+Man darf beliebig viele Münzen nehmen, aber nur einmal wiegen.

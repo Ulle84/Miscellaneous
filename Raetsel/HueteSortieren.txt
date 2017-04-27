@@ -1,0 +1,5 @@
+Eine beliebige Anzahl von Männern ist in einem Hof.
+Einige davon haben schwarze, die anderen weiße Hüte auf.
+Jeder Mann kann die Hüte der anderen Männer sehen, nicht aber seinen eigenen Hut.
+Die Männer sollen sich so aufstellen, dass sie farblich sortiert in einer Linie stehen.
+Wie gehen sie vor?

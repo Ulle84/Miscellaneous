@@ -1,0 +1,16 @@
+Waage mit 9 Kugeln
+
+Es gibt 9 Kugeln, die gleich aussehen. Eine der 9 Kugeln ist ein bisschen schwerer. Man darf zeimal mit einer Waage (2 Waagschalen) wiegen. Wie findet man heraus, welche Kugel die schwerere ist?
+
+
+LÖSUNG
+
+Man nimmt 6 Kugeln. Auf jede der Waagschalen kommen drei Kugeln
+
+1) die Waage zeigt keinen Ausschlag -> alle Kugeln wiegen gleich viel -> man nimmt die drei Kugeln, die noch nicht gewogen wurden und legt jeweils eine davon auf eine Waagschale
+  a) die Waage zeigt keinen Ausschlag, die Kugel die nicht auf der Waage liegt ist die gesuchte
+  b) die Waage zeigt einen Ausschlag -> die Kugel, die unten ist ist die gesuchte
+
+2) die Waage zeigt einen Ausschlag -> man nimmt die drei Kugeln, die schwerer sind und legt jeweils eine davon auf eine Waagschale
+  a) die Waage zeigt keinen Ausschlag, die Kugel die nicht auf der Waage liegt ist die gesuchte
+  b) die Waage zeigt einen Ausschlag -> die Kugel, die unten ist ist die gesuchte
